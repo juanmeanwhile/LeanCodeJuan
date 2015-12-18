@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LeanCodeAndroid</string>
+    <string name="add">Add</string>
+    <string name="happy_hacking">Happy Hacking</string>
+    <string name="error_fruit_not_supported">Fruit not supported</string>
+    <string name="apples">apples</string>
+    <string name="cherries">cherries</string>
+    <string name="banana">banana</string>
+</resources>
